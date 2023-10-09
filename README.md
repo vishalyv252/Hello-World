@@ -10,6 +10,4 @@ I created a web app for this project using ReactJS and Tailwind CSS framework. T
   
 2).Mobile View:
 
-
-
-
+![Mobile-View](https://github.com/vishalyv252/Hello-World/assets/105093020/67fb87aa-97d9-44b7-be40-7fa9359285ce)
