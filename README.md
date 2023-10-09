@@ -9,5 +9,10 @@
 
   <h2>ScreenShots:</h2>
   
+  <p>Desktop View:</p>
+
+  
+  <p>Mobile View:</p>
+
   
 </main>
