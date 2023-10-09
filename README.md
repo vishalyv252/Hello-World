@@ -1,6 +1,6 @@
 <header>
   <div>
-    <h6 style="text-align:center;">Project Details</h6>
+    <h6 style="text-align: center;">Project Details</h6>
   </div>
 </header>
 <main>
