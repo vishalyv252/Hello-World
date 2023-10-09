@@ -1,18 +1,12 @@
-<header>
-  <div>
-    <h1 align="center">Project Details</h1>
-  </div>
-</header>
-<main>
-  <p> I created a web app for this project using ReactJS and Tailwind CSS framework. This code is for a React web application that adjusts its layout and content based on the screen size of the device it's viewed on. It uses conditional rendering to show different layouts for different screen sizes, such as 4K, desktop, tablet, and various mobile sizes. Inside each layout section is a placeholder for a Text component imported from another file. This component likely adds dynamic text content to the layout.
-  </p>
+#Project Details:
 
-  <h2>ScreenShots:</h2>
+I created a web app for this project using ReactJS and Tailwind CSS framework. This code is for a React web application that adjusts its layout and content based on the screen size of the device it's viewed on. It uses conditional rendering to show different layouts for different screen sizes, such as 4K, desktop, tablet, and various mobile sizes. Inside each layout section is a placeholder for a Text component imported from another file. This component likely adds dynamic text content to the layout.
   
-  <p>Desktop View:</p>
-  ![Desktop-View](https://github.com/vishalyv252/Hello-World/assets/105093020/6e22fc12-ce50-46a3-80c5-38a7eca5f9f3)
+#ScreenShots:
   
-  <p>Mobile View:</p>
+1).Desktop View:
 
   
-</main>
+2).Mobile View:
+
+
